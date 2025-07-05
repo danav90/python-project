@@ -1,3 +1,3 @@
 # python-project
-python project of diwali sales
+python project of diwali sales.
 Owner- danav90
